@@ -8,7 +8,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>21</maven.compiler.release>
-        <exec.mainClass>com.mycompany.p_uts_23090138_c_2025.P_UTS_23090138_C_2025</exec.mainClass>
+        <exec.mainClass>com.mycompany.p_uts_23090138_c_2025.CRUD_23090138_C_2025</exec.mainClass>
     </properties>
     <dependencies>
         <dependency>
