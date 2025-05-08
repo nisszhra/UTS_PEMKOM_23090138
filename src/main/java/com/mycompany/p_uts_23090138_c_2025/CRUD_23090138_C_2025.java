@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author SPECTRE
+ * @author ZAHRA
  */
 public class CRUD_23090138_C_2025 {
 
